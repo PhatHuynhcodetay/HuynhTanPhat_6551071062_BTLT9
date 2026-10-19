@@ -15,7 +15,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D60F4095-2E47-4C78-831C-20165780F08B}"
 	ProjectSection(SolutionItems) = preProject
 		b_i_t_p_ch_ng_11_publish_app_api.md = b_i_t_p_ch_ng_11_publish_app_api.md
-		script.sql = script.sql
 	EndProjectSection
 EndProject
 Global
